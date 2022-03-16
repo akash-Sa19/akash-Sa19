@@ -13,11 +13,50 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=akash-Sa19&style=flat-square&color=blue" alt=""/>
 <h1>
-  Hi there!!
+  Hi there! Akash here
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+  <img src="https://media1.giphy.com/media/PgLLtnqHts1woXeKpy/giphy.gif?cid=ecf05e4734c11df3d9297d5e1325230a31409e823fcfdba6&rid=giphy.gif&ct=s"  width="400">
 </div>
-**akash-Sa19/akash-Sa19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+---
+
+### 👨‍💻 About Me :
+I am on my way to become Full Stack WebDeveloper
+- 🏫 I am on my way to becoming a Full Stack Web Developer
+currently, I am a student at the Bhilai Institute of Technology, pursuing Mechanical Engineering.
+- 😆 In Covid lockdown, I started learning web development for fun but now I want to make my career in IT.
+- ⚡ In my free time, I solve problems on GeeksforGeeks and read tech articles.
+___
+### 🛠️ Language and Tools:
+let me describe my expertise in a different way 😉:
+```javascript
+const Akash ={
+  code: [Javascript, HTML, CSS, Python, C],
+  tools : [React, Node],
+  communities: [
+            "Robotics Club BITD",
+            "Energy Club BITD",
+            "Astro Club BITD"
+  ]
+  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  }
+```
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akash-Sa19&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-Sa19&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- Markdown -->
+### Joke of the day 😂:
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
+
+
+<!-- **akash-Sa19/akash-Sa19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
