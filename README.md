@@ -19,7 +19,7 @@
   Hi there! Akash here
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-  <img src="https://media1.giphy.com/media/PgLLtnqHts1woXeKpy/giphy.gif?cid=ecf05e4734c11df3d9297d5e1325230a31409e823fcfdba6&rid=giphy.gif&ct=s"  width="400">
+  <img src="https://media1.giphy.com/media/PgLLtnqHts1woXeKpy/giphy.gif?cid=ecf05e4734c11df3d9297d5e1325230a31409e823fcfdba6&rid=giphy.gif&ct=s"  width="200">
 </div>
 
 ---
