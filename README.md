@@ -28,6 +28,7 @@
 I am on my way to become Full Stack WebDeveloper
 - 🏫 currently, I am a student at the Bhilai Institute of Technology, pursuing Mechanical Engineering.
 - 😆 In Covid lockdown, I started learning web development for fun but now I want to make my career in IT.
+- 🍪 i love to cook, go on trips, try different street food and watch anime.
 - ⚡ In my free time, I solve problems on GeeksforGeeks and read tech articles.
 ___
 ### 🛠️ Language and Tools:
