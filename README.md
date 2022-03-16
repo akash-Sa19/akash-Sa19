@@ -26,8 +26,7 @@
 
 ### 👨‍💻 About Me :
 I am on my way to become Full Stack WebDeveloper
-- 🏫 I am on my way to becoming a Full Stack Web Developer
-currently, I am a student at the Bhilai Institute of Technology, pursuing Mechanical Engineering.
+- 🏫 currently, I am a student at the Bhilai Institute of Technology, pursuing Mechanical Engineering.
 - 😆 In Covid lockdown, I started learning web development for fun but now I want to make my career in IT.
 - ⚡ In my free time, I solve problems on GeeksforGeeks and read tech articles.
 ___
@@ -36,12 +35,12 @@ let me describe my expertise in a different way 😉:
 ```javascript
 const Akash ={
   code: [Javascript, HTML, CSS, Python, C],
-  tools : [React, Node],
+  tools : [React, Node, Canva],
   communities: [
             "Robotics Club BITD",
             "Energy Club BITD",
             "Astro Club BITD"
-  ]
+  ],
   challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
   }
 ```
