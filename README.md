@@ -35,13 +35,13 @@ let me describe my expertise in a different way 😉:
 ```javascript
 const Akash ={
   code: [Javascript, HTML, CSS, Python, C],
-  tools : [React, Node, Canva],
+  tools : [React, Tailwindcss, Sass, Angular, Bootstrap, Canva],
   communities: [
             "Robotics Club BITD",
             "Energy Club BITD",
             "Astro Club BITD"
   ],
-  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  challenge: "I am doing the #100DaysOfWebDesign challenge focused on react and tailwincss"
   }
 ```
 ---
