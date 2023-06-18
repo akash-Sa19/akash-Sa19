@@ -24,18 +24,18 @@
 ---
 
 ### 👨‍💻 About Me :
-I am on my way to become Full Stack WebDeveloper
-- 🏫 currently, I am a student at the Bhilai Institute of Technology, pursuing Mechanical Engineering.
+I am Web Designer
+- 🏫 I was a student at the Bhilai Institute of Technology, pursuing a degree in Mechanical Engineering.
 - 😆 In Covid lockdown, I started learning web development for fun but now I want to make my career in IT.
-- 🍪 i love to cook, go on trips, try different street food and watch anime.
-- ⚡ In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- 🍪 I love to cook, go on trips, try different street food and watch anime.
+- ⚡ In my free time, I Design and Develop UI/UX components.
 ___
 ### 🛠️ Language and Tools:
 let me describe my expertise in a different way 😉:
 ```javascript
 const Akash ={
   code: [Javascript, HTML, CSS, Python, C],
-  tools : [React, Tailwindcss, Sass, Angular, Bootstrap, Canva],
+  tools : [React, Tailwindcss, Sass, Bootstrap, Canva, Git, GitHub, Figma, UI/UX Design],
   communities: [
             "Robotics Club BITD",
             "Energy Club BITD",
